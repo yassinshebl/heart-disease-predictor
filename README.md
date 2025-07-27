@@ -51,6 +51,7 @@ Heart_Disease_Project/
 │ ├── evaluation_metrics.txt
 │── ui/
 │ ├── app.py (Streamlit UI)
+│── requirements.txt
 ```
 
 ---
