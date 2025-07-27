@@ -1,0 +1,13 @@
+1. Open the project directory:
+   Navigate to the folder where the Streamlit app is located. (..\ui\app.py) 
+
+2. Run the Streamlit app locally:
+   In the command prompt or terminal, enter:
+   streamlit run app.py
+
+3. Open another terminal window and start Ngrok:
+   If the app runs on default port 8501, use:
+   ngrok http 8501
+
+   You will receive a public URL like:
+   https://<random>.ngrok-free.app
