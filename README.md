@@ -96,3 +96,4 @@ This tool is not a medical diagnosis. Always consult a healthcare professional f
 
 - **Name:** Yassin Shebl  
 - **GitHub:** [@yassinshebl](https://github.com/yassinshebl)
+- **LinkedIn:** [@yassin-shebl](https://www.linkedin.com/in/yassin-shebl/)
