@@ -88,7 +88,7 @@ streamlit run app.py
 
 ## Disclaimer
 
-> This tool is not a medical diagnosis. Always consult a healthcare professional for medical concerns.
+This tool is not a medical diagnosis. Always consult a healthcare professional for medical concerns.
 
 ---
 
