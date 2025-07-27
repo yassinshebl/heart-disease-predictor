@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Predictor
+# Heart Disease Predictor
 
 A Streamlit web application that predicts the likelihood of heart disease based on medical input data. Built with a full machine learning pipeline, including preprocessing, PCA, model selection, and deployment. 
 
@@ -56,22 +56,22 @@ Heart_Disease_Project/
 
 ---
 
-## 3. How to Run
+## 4. How to Run
 
-### 3.1 Clone the Repository
+### 4.1 Clone the Repository
 
 ```bash
 git clone https://github.com/yassinshebl/heart-disease-predictor.git
 cd heart-disease-predictor
 ```
 
-### 3.2 Install Dependencies
+### 4.2 Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the Streamlit App
+### 4.3. Run the Streamlit App
 
 ```bash
 streamlit run app.py
@@ -79,20 +79,20 @@ streamlit run app.py
 
 ---
 
-## 📌 Dataset Info
+## 5. Dataset Info
 
 - **Source:** [UCI Machine Learning Repository – Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)  
 - Includes features like age, sex, chest pain type, cholesterol, fasting blood sugar, etc.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > This tool is not a medical diagnosis. Always consult a healthcare professional for medical concerns.
 
 ---
 
-## 👤 Author
+## Author
 
 - **Name:** Yassin Shebl  
 - **GitHub:** [@yassinshebl](https://github.com/yassinshebl)
